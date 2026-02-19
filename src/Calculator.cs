@@ -7,7 +7,7 @@
             while (true)
             {
                 Console.Clear();
-                Utilities.Print("\n========== Calculadora CLI ==========");
+                Utilities.Print("\n========== Calculadora CLI v1.1 ==========");
 
                 decimal num1 = ReadDecimal("\nDigite um número: ");
                 decimal num2 = ReadDecimal("\nDigite outro número: ");

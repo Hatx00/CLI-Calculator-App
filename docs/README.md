@@ -1,4 +1,4 @@
-﻿# CLI Calculator v1.0
+﻿# CLI Calculator v1.1
 
 ### About (English)
 
